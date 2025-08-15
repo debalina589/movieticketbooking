@@ -4,8 +4,8 @@
 @theme{
   --color-primary: #F84565;
   --color-primary-dull: #D63854;
-
 }
+
 *{
    font-family: "Outfit", sans-serif;
    scrollbar-width: thin;
