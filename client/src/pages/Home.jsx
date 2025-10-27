@@ -1,11 +1,16 @@
 import React from 'react'
+import HeroSection from '../components/HeroSection'
+import FeaturedSection from '../components/FeaturedSection'
+import TrailersSection from '../components/TrailersSection'
 
 const Home = () => {
-    return(
-        <div>
-
-        </div>
-    )
-
+  return (
+    <>
+       <HeroSection/>
+       <FeaturedSection/>
+       <TrailersSection/>
+    </>
+  )
 }
+
 export default Home
